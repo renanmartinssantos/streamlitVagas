@@ -37,7 +37,7 @@ class LinkedInScraper:
             "Estágio em BI"
         ]
         
-        self.sites_jobspy = ["linkedin", "indeed"]  # glassdoor, ziprecruiter, google pode dar problema
+        self.sites_jobspy = ["linkedin", "indeed", "google"]  # glassdoor, ziprecruiter, google pode dar problema
         
         # URLs de busca antigas (backup)
         self.urls_busca = [
